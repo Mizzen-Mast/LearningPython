@@ -8,4 +8,7 @@
 
 2. [Challenge 2: Easy](https://www.reddit.com/r/dailyprogrammer/comments/pjbj8/easy_challenge_2/) "Hello, coders! An important part of programming is being able to apply your programs, so your challenge for today is to create a calculator application that has use in your life. It might be an interest calculator, or it might be something that you can use in the classroom. For example, if you were in physics class, you might want to make a F = M * A calc. EXTRA CREDIT: make the calculator have multiple functions! Not only should it be able to calculate F = M * A, but also A = F/M, and M = F/A!"
 
-   2a. My Solutions: [Challenge w/o Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Two/twoEasy.py) and [Challenge w/ Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Two/twoEasyExtra.py)
+   2a. My Solutions: [Challenge w/o Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Two/twoEasy.py) and [Challenge w/ Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Two/twoEasyExtra.py) 
+
+3. [Challenge 3: Easy](https://www.reddit.com/r/dailyprogrammer/comments/pkw2m/2112012_challenge_3_easy/) "write a program that can encrypt texts with an alphabetical caesar cipher. This cipher can ignore numbers, symbols, and whitespace. for extra credit, add a "decrypt" function to your program!" 
+    3a. My Solutions:[Challenge w/o Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Three/threeEasy.py) 
