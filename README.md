@@ -11,4 +11,9 @@
    2a. My Solutions: [Challenge w/o Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Two/twoEasy.py) and [Challenge w/ Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Two/twoEasyExtra.py) 
 
 3. [Challenge 3: Easy](https://www.reddit.com/r/dailyprogrammer/comments/pkw2m/2112012_challenge_3_easy/) "write a program that can encrypt texts with an alphabetical caesar cipher. This cipher can ignore numbers, symbols, and whitespace. for extra credit, add a "decrypt" function to your program!" 
-    3a. My Solutions:[Challenge w/o Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Three/threeEasy.py) and [Challenge w/ Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Three/threeEasyExtra.py) 
+   3a. My Solutions: [Challenge w/o Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Three/threeEasy.py) and [Challenge w/ Extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Three/threeEasyExtra.py) 
+
+
+
+4. [Challenge 4: Easy](https://www.reddit.com/r/dailyprogrammer/comments/pm6oj/2122012_challenge_4_easy/) This Challenge was to create a random password generator with extra credit for the user can specify how many passwords and the length of those passwords
+   4a. My Solution: [Challenge w/ extra Credit](https://github.com/kyle-clayson/LearningPython/blob/master/Challenges/Four/fourEasy.py) I did this challenge with the extra credit at the same time since it lended it self easily to doing that. 
